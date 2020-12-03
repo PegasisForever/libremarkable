@@ -16,7 +16,7 @@ ioctl-gen = "0.1.1"
 libc = "0.2.69"
 mmap = "0.1.1"
 rusttype = "0.8.2"
-evdev = { git = "https://github.com/PegasisForever/evdev.git"}
+evdev = { git = "https://github.com/PegasisForever/evdev.git", rev = "9975402f6474adda3c27962f361111db48b911f4"}
 epoll = "4.1.0"
 image = "0.21.3"
 line_drawing = "0.8.0"
